@@ -1,0 +1,16 @@
+# Simulation outputs
+evm_sim
+*.vcd
+*.vvp
+
+# OpenLane generated runs
+runs/
+
+# Python environments and cache
+.venv/
+venv/
+__pycache__/
+
+# Temporary files
+*.log
+*.tmp
